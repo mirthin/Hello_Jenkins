@@ -15,7 +15,7 @@ TEST (SquareRootTest, PositiveNos) {
 }
 
 
-int main(void)
+int main(int argc, char **argv) {
 {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
