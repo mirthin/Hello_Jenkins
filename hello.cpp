@@ -7,13 +7,13 @@ using namespace std;
 double m_pow(double in) {
   return in*in;
 }
-
+/*
 TEST (SquareRootTest, PositiveNos) { 
     EXPECT_EQ (4.0, m_pow (2));
     EXPECT_EQ (9.0, m_pow (3));
     EXPECT_EQ (4.0, m_pow (-2));
 }
-
+*/
 
 int main(int argc, char **argv)
 {
