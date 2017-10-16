@@ -1,5 +1,5 @@
 //File: hello.cpp
-#include "include/gtest/gtest.h"
+#include "gtest/gtest.h"
 #include <iostream>
 using namespace std;
 
