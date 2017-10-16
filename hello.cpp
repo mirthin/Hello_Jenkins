@@ -9,9 +9,9 @@ double m_pow(double in) {
 }
 
 TEST (SquareRootTest, PositiveNos) { 
-    EXPECT_EQ (4.0, square-root (2));
-    EXPECT_EQ (9.0, square-root (3));
-    EXPECT_EQ (4.0, square-root (-2));
+    EXPECT_EQ (4.0, m_pow (2));
+    EXPECT_EQ (9.0, m_pow (3));
+    EXPECT_EQ (4.0, m_pow (-2));
 }
 
 
